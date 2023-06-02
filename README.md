@@ -1,3 +1,11 @@
+```
+@@@##@@@##@@#.~~.#@./\.'@@@###@###@###@@@@#@#@@#@  
+@@#@@##@@@@.' ~  './\'./\' .#@@@@@@#@#@@@#@@##@@@ 
+@@#@@##@@_/ ~   ~  \ ' '. '.'.#@@####@@##@#@@#@#@  
+-~------'    ~    ~ '--~-----~-~----___________--
+  ~    ~  ~      ~     ~ ~   ~     ~  ~  ~   ~   
+```
+
 # Advent of Code 2022 Solutions
 
 This repository contains my solutions for the Advent of Code 2022 challenges. The purpose of this repository is to learn and practice programming in Rust.
